@@ -1,2 +1,4 @@
-# OKD-lab-maddy
-My OpenShift/ OKD R&amp;D Project
+
+
+fedora + OKD lab setup comlete.
+1380a04 (Initial commit)
